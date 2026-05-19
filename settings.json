@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "not_Dream112345",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "old.mixmc.indevs.in",
+    "port": 17611,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a cat",
+        "I'm a car lol!",
+        "yooo!"
       ]
     },
     "chat-log": true,
